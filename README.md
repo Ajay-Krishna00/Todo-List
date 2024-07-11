@@ -1,6 +1,7 @@
 # Todo List Application
 
 This is a simple Todo List application built with React. It allows users to add, remove, and mark tasks as completed. The application is designed to be a straightforward and user-friendly way to manage your daily tasks.
+Hosted link: [Github Pages](https://ajay-krishna00.github.io/Todo-List/)
 
 ## Features
 
